@@ -1,2 +1,2 @@
 # Basic-Python-Programs
- Some BAsic Python Programs
+ Some Basic Python Programs
